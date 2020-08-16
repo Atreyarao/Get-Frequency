@@ -17,6 +17,23 @@ Finally a loop is rum from 0->N and all the top "N" elements are stored in the f
 The result is converted to JSON and then sent to the called with "res.status(200).json(result)".  
 In the front end once the application recives the data it renders the data in the form of Tables.  
 
+Images:
+Initial Page
+![alt text](https://github.com/Atreyarao/Get-Frequency/blob/master/Images/Screenshot%20(382).png?raw=true)
+
+Test Case:
+1) if "N" is less than 0:  
+
+![alt text](https://github.com/Atreyarao/Get-Frequency/blob/master/Images/Screenshot%20(383).png?raw=true)
+
+2) if "N" is greater than the words in file:  
+
+![alt text](https://github.com/Atreyarao/Get-Frequency/blob/master/Images/Screenshot%20(386).png?raw=true)
+
+3) if "N" is correct:  
+
+![alt text](https://github.com/Atreyarao/Get-Frequency/blob/master/Images/Screenshot%20(385).png?raw=true)
+
 Backend Route: "http://localhost:1234/routes/api/getData";(POST request can be sent with "num" as parameter)  
 
 Link of Website: https://words-frequency-counter.herokuapp.com/   
