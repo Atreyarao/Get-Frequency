@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,MACI,UAAU,CACV,YAAa,CACb,sBACJ,CACA,IACI,eACJ,CACA,YACI,qBACF","file":"main.4c3c1228.chunk.css","sourcesContent":[".flex{\r\n    width:100%;\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n.up{\r\n    margin-top:60px;\r\n}\r\ntable, th, td {\r\n    border: 1px solid black;\r\n  }"]}
