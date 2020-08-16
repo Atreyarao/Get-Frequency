@@ -19,4 +19,4 @@ In the front end once the application recives the data it renders the data in th
 
 Backend Route: "http://localhost:1234/routes/api/getData";(POST request can be sent with "num" as parameter)  
 
-Some Images Of The Project:  
+Link of Website: https://words-frequency-counter.herokuapp.com/   
